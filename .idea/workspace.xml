@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79aa0aaf-c4e1-420c-8f09-ecefe217a678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funct_programming/high_order_functions/my_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funct_programming/my_filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funct_programming/my_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/funct_programming/high_order_functions/my_map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funct_programming/my_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/funct_programming/high_order_functions/my_reduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funct_programming/my_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/funct_programming/high_order_functions/my_zip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,25 +19,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ZUerdRsluWDEWYeDrQzP2Ca1B7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first_project" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/PycharmProjects/Python_Lessons_Second_Section&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\pycharm-workspace\second_project\funct_programming\funct_methods" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.authenticate_exercise">
+  <component name="RunManager" selected="Python.encaps_object">
     <configuration name="authenticate_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="second_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,19 +84,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decor_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="encaps_object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="second_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funct_programming/decorators" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\andre\AppData\Local\Microsoft\WindowsApps\python3.7.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_objects" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funct_programming/decorators/decor_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_objects/encaps_object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,19 +126,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_filter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="super_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="second_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funct_programming/high_order_functions" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\andre\AppData\Local\Microsoft\WindowsApps\python3.7.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_objects" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funct_programming/high_order_functions/my_filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_objects/super_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,14 +149,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.encaps_object" />
+        <item itemvalue="Python.super_list" />
         <item itemvalue="Python.authenticate_exercise" />
         <item itemvalue="Python.check_func_performance" />
         <item itemvalue="Python.my_decorator" />
-        <item itemvalue="Python.my_filter (1)" />
-        <item itemvalue="Python.decor_func" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -171,43 +170,5 @@
       <updated>1584898299047</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1585208673124">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585208673124" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585429407110">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585429407110" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1585325302532">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585325302532" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585417316172">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585417316172" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585417316172">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585417316172" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585417316171">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585417316171" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585417316172">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585417316172" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1584899252636">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584899252636" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585411906767">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585411906767" />
   </component>
 </project>
